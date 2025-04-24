@@ -27,4 +27,6 @@ SCRATCH CARDS is not just an app; it's a canvas for creativity. Whether you're l
 - 💡 Surprise Ideas: Create unexpected delights for your friends, family, or customers.
 
 ### 💬 Feedback
-We'd love to hear your thoughts! Feel free to open an issue or contribute to the project.
+We'd love to hear your thoughts! Feel free to contact me for more information.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eram%C3%B3n/)    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edurz12345@gmail.com)  
